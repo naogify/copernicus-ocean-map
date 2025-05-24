@@ -7,9 +7,9 @@
 - 深さおよそ50cmの表層データ
 - WMTSの`sea_water_velocity`レイヤから取得
 
-## 使い方
-1. GeoloniaのAPIキーを取得して`index.html`内の`YOUR-API-KEY`を置き換えます。
-2. `index.html`をブラウザーで開くだけで海流マップを表示できます。
+## URL
+
+https://naogify.github.io/copernicus-ocean-map
 
 ## Attribution
 データはEUのCopernicus Marine Serviceが提供する情報を使用しており、ファイル内で以下の帰属を表示しています。

@@ -19,4 +19,4 @@
 ```
 
 ## ライセンス
-このリポジトリ内のコードはMITライセンスです。データの利用条件についてはCopernicus Marine Serviceの規約をご確認ください。
+このリポジトリ内のコードはMITライセンスです。データの利用条件については [Copernicus Marine Serviceの規約](https://marine.copernicus.eu/user-corner/service-commitments-and-licence) をご確認ください。
